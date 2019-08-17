@@ -34,7 +34,8 @@ import okhttp3.Call;
 
 public class PingLun extends Activity {
 
-    //第1次提交git本地
+
+    //第2次提交git本地
     @InjectView(R.id.my_title)
     TextView myTitle;
     @InjectView(R.id.setting)
